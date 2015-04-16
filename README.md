@@ -13,22 +13,22 @@ You may have a great idea for a website and build something that works, but soon
 * Visual importance or weight on to too many elements makes everything becomes flat. It's like saying you have ten ‘favorite’ flavors of ice cream. 
 * Let the content shine and and make sure graphic elements don’t distract.
 * Here is an example of how visual hierarchy breaks up content on a page and directs a user’s eye - the example on the right has headers and footers, headlines and paragraphs with text in different colors.
-!!!! NEED TO LINK IMAGES FROM THE GOOGLE DOC!!!
+  <img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy-text.png">
 * Ways to create visual heirarchy 
   * Size: larger elements carry more visual weight
   * Color: Some colors are perceived as weighing more than others. Red is to be heaviest while yellow is to be lightest.
   * Density: Packing more elements into a given space, gives more weight to that space
   * Value – A darker object will have more weight than a lighter object
   * Another good strategy is employing contrast. Here are a few examples of how you can employ contrast to make an object stick out and indicate its importance
-  !!!! LINK FROM IMAGES FROM GOOGLE DOC
+  <img src="https://s3.amazonaws.com/after-school-assets/simple_contrasts-1.png">
 * [Land Book](http://land-book.com/) also has good examples of actual websites and how they employ visual hierarchy.
-  !!!! LINK FROM IMAGES FROM GOOGLE DOC
+  <img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy-example.png">
     *Clear what site is about
-    * Eeye is also drawn to the large buttons directing you to “learn how it works”, “get started for free”, and a smaller - but outlined - button to “sign up”.
+    * Eye is also drawn to the large buttons directing you to “learn how it works”, “get started for free”, and a smaller - but outlined - button to “sign up”.
 * Other things to think about:
   * The most important content on your page should go above the fold - at the top of the page before a user needs to scroll down
     * Here is an example of what kind of content should go above the fold vs below the fold:
-    !!!! LINK FROM IMAGES FROM GOOGLE DOC
+    <img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy-above-the-fold.png">
 
 ### Conclusion / So What?
 Design principals play a huge part in determining the amount of action your page gets. Visual hierarchy can help you provide the right amount of weight to get the most important parts of your page noticed.
