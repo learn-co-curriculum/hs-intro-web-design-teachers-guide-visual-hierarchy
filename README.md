@@ -26,11 +26,12 @@ You may have a great idea for a website and build something that works, but soon
 <img src="https://s3.amazonaws.com/after-school-assets/simple_contrasts-1.png">
 
 * [Land Book](http://land-book.com/) also has good examples of actual websites and how they employ visual hierarchy.
+* The photo below is a good example of visual hierarchy:
+  *Clear what site is about
+  * Eye is also drawn to the large buttons directing you to “learn how it works”, “get started for free”, and a smaller - but outlined - button to “sign up”.
 
 <img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy-example.png">
 
-    *Clear what site is about
-    * Eye is also drawn to the large buttons directing you to “learn how it works”, “get started for free”, and a smaller - but outlined - button to “sign up”.
 * Other things to think about:
   * The most important content on your page should go above the fold - at the top of the page before a user needs to scroll down
     * Here is an example of what kind of content should go above the fold vs below the fold:
