@@ -1,5 +1,5 @@
 ###SWABTS
-Understand and use concepts of visual hierarchy to provide appropriate weight to the important features of a site. 
+***Understand and use concepts of visual hierarchy to provide appropriate weight to the important features of a site.*** 
 
 ### Motivation / Why Should You Care?
 You may have a great idea for a website and build something that works, but soon notice that people are coming and then leaving after a very short amount of time. They're not engaging or clicking on any of the links. Sometimes they might end up not being interested in your sight, but without a good design, it could be that users can't find the things they're looking for.
