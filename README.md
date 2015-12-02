@@ -42,3 +42,5 @@ You may have a great idea for a website and build something that works, but soon
 Design principals play a huge part in determining the amount of action your page gets. Visual hierarchy can help you provide the right amount of weight to get the most important parts of your page noticed.
 
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-visual-hierarchy' data-visibility='hidden'>View this lesson on Learn.co</a>
