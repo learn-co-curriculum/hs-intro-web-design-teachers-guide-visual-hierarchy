@@ -43,4 +43,4 @@ Design principals play a huge part in determining the amount of action your page
 
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-visual-hierarchy' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-visual-hierarchy' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
